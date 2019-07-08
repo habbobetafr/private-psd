@@ -26,6 +26,9 @@ Box "Top apparts":    H: 333px /// W: 395px
 Box "Réseaux sociaux":   H: 117px /// W: 395px
 
 
+Box "Rejoins l'hôtel": Couleur :  #2fbc0f  /// H: 77px // W: 302px
+
+
 
 
 
