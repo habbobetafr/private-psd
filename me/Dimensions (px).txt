@@ -1,0 +1,48 @@
+Box "Mon compte": H: 313px ///  W: 469px
+
+
+
+
+Box "Radio":  H : 168px /// W : 470px
+
+
+
+
+Box Derniers articles (une box): H: 167px ///  W: 347px
+
+
+
+
+Box "En voir plus":   H: 40px /// W: 705px
+
+
+
+
+Box "Top apparts":    H: 333px /// W: 395px
+
+
+
+
+Box "Réseaux sociaux":   H: 117px /// W: 395px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
